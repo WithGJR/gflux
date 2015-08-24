@@ -12,7 +12,7 @@ gflux is a generator help you generate the basic react+flux(with webpack) struct
 
 It equips with `babel-loader` and `react-hot-loader` by default. 
 
-The reason I didn't write this generator in Javascript is that I like Golang more than Javascript. (And also because I'm more familiar with Golnag instead of Javascript.)
+The reason I didn't write this generator in Javascript is that I like Golang more than Javascript. (And also because I'm more familiar with Golnag rather than Javascript.)
 
 ## Usage
 
