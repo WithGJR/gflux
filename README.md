@@ -8,7 +8,7 @@ go get -u -x github.com/WithGJR/gflux
 
 ## About this generator
 
-gflux is a generator help you generating the basic react+flux(with webpack) structure.
+gflux is a generator help you generate the basic react+flux(with webpack) structure.
 
 It equips with `babel-loader` and `react-hot-loader` by default. 
 
