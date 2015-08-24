@@ -18,4 +18,4 @@ gflux [options]
 
 ## Options
 
-- `-skip-install` : Skip executing 'npm install'
+- `-skip-install` : Skip executing `npm install`
