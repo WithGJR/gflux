@@ -28,7 +28,7 @@ const mainJSFileContent string = "" +
 
 const webpackConfigFileContent string = "" +
 	`module.exports = {
-  entry: "./scripts/main.js",
+  entry: "./src/scripts/main.js",
   output: {
     path: "./build",
     filename: "bundle.js"
@@ -61,7 +61,7 @@ func packageJSONFileContent(appName string, authorName string) string {
   "name": "` + appName + `",
   "version": "1.0.0",
   "description": "",
-  "main": "./bundle.js",
+  "main": "./build/bundle.js",
   "author": "` + authorName + `",
   "license": "ISC",
   "dependencies": {
