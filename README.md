@@ -1,3 +1,5 @@
+# gflux = A React+Flux Structure Generator
+
 ## Installation
 
 ``` bash
