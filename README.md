@@ -1,4 +1,4 @@
-# gflux = A React+Flux Structure Generator
+# gflux - A React+Flux Structure Generator
 
 ## Installation
 
